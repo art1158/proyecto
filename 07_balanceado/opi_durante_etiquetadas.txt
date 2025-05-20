@@ -1,0 +1,246 @@
+1  | ansioso inicio gana apoyar compañero después sentir excluido compañero cerrar circulo | negativo
+2  | tomo sorpresa estreso incertidumbre cuándo volver clase presencial | neutro
+3  | primero vez paro estudiantil venir escuela concreto sentir causa justo | positivo
+4  | principio realmente saber ¿ entonces sentir raro conformar pasar tiempo sentir ansioso ir largo | neutro
+5  | incertidumbre proceder debido alumno foráneo saber hacer asistir ciudad | positivo
+6  | situación complejo estrés convicción pie lucha compañero ideal indicado lograr cambio significativo mejorar condición educativo comunidad | positivo
+7  | sentir mucho incertidumbre saber ir evolucionar cosa relación actividad posterior | positivo
+8  | sentir estresado tiempo pues saber ir suceder extender dar clase línea todavía dar bajo servicio autoservicio | neutro
+9  | sentir angustiado saber pasar llegar solución afectar estudio regresar pronto clase acuerdo situación empeorar | neutro
+10  | frustrado tener acceso clase presencial aburrido distraido | positivo
+11  | bien compañero exigir derecho | neutro
+12  | posible participación movimiento favor compañero poder intervenir decisión favor embargo clase línea mejor opción | positivo
+13  | frustrado dado clase línea | neutro
+14  | cómodo casa | neutro
+15  | molesto distinto interrupción impedimento llevar cabo buen comunicación arreglo triste noticia amarillista decepcionado discrimacion económico social estudiante | positivo
+16  | verdad principio pensar bien error fcc pasar tiempo llegar pensar perder tiempo | neutro
+17  | personal disgustado clase linea agrado raro haber cortar repente parte rutina conllevar necesario carencia universidad atender | neutro
+18  | sentir incertidumbre tardar semestre pues clase diferente faltar interacción demás compañero | neutro
+19  | sentir angustiado calidad clase estudiar línea eficiente mismo manera presencialmente preocupar ir afectar academicamente | neutro
+20  | estresado sinceramente gustar clase línea poner poco atención aparte ir super rápido clase si alguno duda pues resolver | neutro
+21  | pues sentir presionado clase entender buen motivo así saber sobrellevar exitosamente | positivo
+22  | bien hora expresar inconformidad estudiante | negativo
+23  | pues vez bien compañero luchar derecho mal poner atención clase línea agotador preferir clase presencial | positivo
+24  | sentimiento confuso apoyar movimiento realmente sentir facultad tomo postura si mismo situación facultad varios admitir situación ameritar paro además ver varios aun buen profesor rendimiento seguir ser igual malo entonces poder ver doble moral ver justificado inconformidad | neutro
+25  | sentir tranquilo tiempo hacer tarea trabajo sentir enfocar clase poder escuchar ver si acordar poder ver grabación clase | neutro
+26  | parte gusto alumnado estar reclamar derecho merecer lado sentir moviento llego gran parte pedir diluyendoi | neutro
+27  | estresante clase línea poder concentrar casa sentir nuevo pandemia metodología aprendizaje presencial | neutro
+28  | momento interesante gustar ver cómo apoyar trabajar junto causa importar general experiencia enriquecedora | positivo
+29  | pues raro organización si bien expresar inconformidad parte alumno directivo parecer prestar atención tomar ligera | neutro
+30  | interesado saber suceder proceso clase virtual | neutro
+31  | sentir preocupado cómo terminar semestre continuidad escolar vez sentir paro situación estallar día pasar quejar compañero deficiencia así vez paro punto inflexión tratar poder solucionar problema universidad pretención buen malo soler ser paro tipo méxico desafortunadamente | neutro
+32  | preocupado situación suceder universidad así mismo clase saber si ir regresar clase ir calificar | neutro
+33  | periodo confusión saber pasado ciudad universitario pensar consecuencia poder traer paro calificación además todo actividad faltante juntar solo mes semestre pensar estrés | neutro
+34  | gusto necesario expresar abrir voz autoridad hacer algio | positivo
+35  | pues facultad si razón demanda sólo querer obtener cosa | neutro
+36  | general bien factor externo poder asistir presencialmente paro tratar virtualmente poder difundir información importante | positivo
+37  | sentir confundido haber mucho opinión distinto información | positivo
+38  | ciertamente primero sentir frustración preocupar poder lograr provocar movimiento | positivo
+39  | preocupado saber ir pasar compañero además principio información base emitir información oficial | positivo
+40  | relajado tener viajar facultad abrumado tanto información opinión dividir entre estudiante | neutro
+41  | debido participar directamente movimiento único manera enterar pasar medio red social tiempo durar paro sentir aturdido diverso información grupo facultad facebook grupo difusión whatsapp stories instagram incluso mención radio tanto punto vista tanto diferente generar sensación desconfianza perdido aun parte comunidad estudiantil | neutro
+42  | gana volver escuela romper rutina | neutro
+43  | mucho ocación sentir representar movimiento sentir propósito estar bien estructurado aunque apoyar razón comprender sentir parte | neutro
+44  | mucho angustia incertidumbre todo información circular saber si verdad | neutro
+45  | confundido desconocer mucho razón paro facultad investigar cambio perspectiva | neutro
+46  | inicio parecer irrelevante hallar raíz cómo surgir después recabar información comprender contexto parecer loable acción compañero sentir frustrado poder regresar normalidad autoridad especial rectora actitud tanto impotente irrespetuoso desinteresado movimiento | positivo
+47  | sentir estresado asistir asamblea ver poco estudiante uner además frustrar noticia beneficiar rectora poner atención | neutro
+48  | verdad combinación orgullo impotencia seguridad tener compañero tanto competente dispuesto luchar defender mejor oportunidad todo generación | positivo
+49  | sentir gusto sumamente estresado constantemente expuesto seguro hacer cómo hacer correcto | positivo
+50  | inicio sentir deber ahí compromiso compañero facultad después sentir realmente querer lograr cambio | positivo
+51  | sentir impotente respecto situación facultad sentir coraje ver autoridad reaccionar movimiento incluso respuesta compañero accionar aveces mejor | neutro
+52  | principio emocionante atreverse expresar inconformidad respecto facultad universidad general embargo surgir duda si tomar decisión correcto si opinión postura adecuado | neutro
+53  | confunder si bien entender paro realizado facultad parte apoyar demás compañero facultad arte ciudad universitario ver claro exigencia poder tener facultad exigir tanto presión tal vez desinterés verdad notar situación tanto importante crucial haber entrar paro | neutro
+54  | sentir fuerte saber existir compañero interesado defender bien común compañero embargo pliego petitorio comunidad estudiantil considerar deficiente aspecto si existir mayor organización descentralización liderazgo comunicación estrategia poder generar cambio aún mayor dentro unidad académico | positivo
+55  | sentir incertidumbre respecto ir pasar cómo amigo participar decisión ir tomar | positivo
+56  | sentir impotente mucho frustración ver punto tener llegar poder ser escuchar visibilizado cosa derecho necesario tener educación digno certero | positivo
+57  | incertidumbre momento preferir enfocar cosa importante trabajo servicio | neutro
+58  | sentir preocupado vez estresado saber ir pasar facultad saber si ir hacer caso necesidad saber si perder semestre vez tiempo línea hacer sentir inquieto recordar pandemia | positivo
+59  | amariliismo noticia falso desinformación desinterés generalmente tratar reconocer hacer sólo hacer caso omiso mencionar vez rectora llego noche domingo | neutro
+60  | mezcla emoción estrés incertidumbre largo tiempo espera recibir respuesta autoridad universidad momento mucho emoción ver unión estudiante organización resistencia | positivo
+61  | frustrado paro progreso académico ver afectado | negativo
+62  | pues verdad involucrado sentir afectado sólo disposición equipo portátil | neutro
+63  | sentir perder ritmo estudio tiempo tiempo poder haber aprovechar mejor aparte entorno ayudar | positivo
+64  | frustrante clase línea complicado distraer vez descanso | neutro
+65  | perder ritmo estudio quejo ayuda mejorar escuela | neutro
+66  | parecer completo pérdida tiempo recurso material cual poder haber ser implementar mejor manera | negativo
+67  | sentir abrumado gustar institución valoro clase | neutro
+68  | sentir desfasado actividad retardar evaluación ayudar platicar cosa cómo sentir estudiante | neutro
+69  | frustrado afectar avance académico | negativo
+70  | movimiento necesario facultad descuidado aspecto infraestructura programa | positivo
+71  | frustrante trámite ir realizar atrasar poder concluir entender motivo compañero alumno manifestar | neutro
+72  | empatia interés compañero facultad necesidad más urgente | neutro
+73  | extraño | neutro
+74  | sinceramente indeferente movimiento estudiantil lado vacaciones gratis lado alargar necesario | neutro
+75  | sentir enojado frustrado pasar universidad llevar cabo resolución problema además preocupación compañero encontrar instalación | neutro
+76  | feliz hacer lograr destro todo buap corriger cambiar mucho cosa hacer falta | neutro
+77  | sinceramente sentir decir así decir rapido dividido lado tener medio lado tener defender compañero cosa escalar raro | neutro
+78  | aunque aprovechar adelantar trabajo universidad poder trabajar sólo afecto tema servicio social caso manera presencial contar hora sólo caso si molesto tardar realmente sabiar pelear | neutro
+79  | cansado | positivo
+80  | movimiento estudiantil sentir estresado debido incertidumbre constante participar paro universidad lleno incertidumbre debido acusación realizar rectora gobernador respecto interés ajeno universidad constantemente afrontar miedo policía venir sacar enfrente cansancio derivado | positivo
+81  | agoviado estresado | neutro
+82  | incluso oportunidad haber participar movimiento estudiantil poder decir movimiento buen estrategia parte estudiante requerir opción servicio universidad brindar hacer año voluntad cooperación estudiante hacer realmente brillante ver organizar tal cantidad estudiante plazo corto tiempo personal gustar participar movimiento realmente beneficio | positivo
+83  | considerar buen base embargo fcc doblegar presión autoridad día hoy concretar solicitar asamblea | neutro
+84  | | neutro
+85  | favor paro petición | positivo
+86  | preocupación hacia movimiento | positivo
+87  | paro sentir estresado debido acumular tarea proyecto además clase línea mejor opción estancia hogar ansiedad crecer | negativo
+88  | parecer movimiento justificable vez mucho inconsistencia parte organización mismo universidad | positivo
+89  | preocupar materia necesario cambio real | neutro
+90  | mal propaganda alumno clase línea | neutro
+91  | bien | neutro
+92  | cansado intención seguir representación activismo mejora condición estudio | positivo
+93  | opinión bien hacer dar conocer cierto aspecto venir ignorar año atrás | positivo
+94  | igual | positivo
+95  | aburrido | neutro
+96  | sentir inicio desinformación respecto debido medio oficial comunicar hecho | neutro
+97  | representado compañero parista | neutro
+98  | verdad sentir estresado realizar trámite conclusión práctica profesional entonces manera hacer | positivo
+99  | cansado cuestionado vez angustia mal comer mal dormido optimista cambio universidad sentir orgulloso mismo haber participar haber tranquilo casa | positivo
+100  | momento recaída emocional académico dejar responsabilidad escolar lado trabajar agotador productivo | neutro
+101  | preocupado avance materia curso volver método clase virtual perder tiempo atención mismo | negativo
+102  | bien poder poner corriente materia mejorar problema facultad | neutro
+103  | participar | neutro
+104  | parecer apocalipsis organizo aunque cuestión directivo parecer dar importancia sólo buscar conveniencia | positivo
+105  | considerar sentir confunder organización buen sentir nadie saber buscar paro querer llegar | neutro
+106  | sentir representado contento estudiante buscar mejora calidad estudio | positivo
+107  | favor paro buen punto manifestar | neutro
+108  | abrumado q juntar varios entrega proyecto | neutro
+109  | causar mucho incertidumbre saber ir pasar cierto punto favor cambio pedir | neutro
+110  | relajado clase disminuir aunque vez profesor tomar más excusa paro hacer más tarea presencial poder hacer cosa practico ahí tranquilo desorientado tiempo tranquilo | neutro
+111  | apoyar compañero pues propuesta realidad facultad | positivo
+112  | quedar sólo semestre solo esperar tiempo perdido repercutir calificación | neutro
+113  | entender pregunta ir decir aburrido pq chingada clase mes sentir esperanzado chavo paro poder cambiar modo operación universidad aunque pendeja rectora servir | neutro
+114  | pues sentir presionado tema claro materia además miedo participar tener alguno tipo represalia | positivo
+115  | ver manera distinto ir terminar creer buscar cambio mejora dentro universidad servir ir entrar así sentir bien | positivo
+116  | indiferente guardar rencor universidad momento querer escuchar situación evitar aplicar baja | neutro
+117  | movimiento estudiantil prestir atención tiempo ser ocupar mismo cambiar clase línea sentir estrés manera virtual nuevamente | neutro
+118  | principio agobiante idea cuándo regresar sobretodo cómo regresar | neutro
+119  | decepcionado manera medio directivo mismo compañero participar demeritar movimiento | neutro
+120  | realmente afecto debido carrera mayoria materia cursar encontrar dificultad dar clase distancia general cambio respecto situación habitual | neutro
+121  | parte sentir incertidumbre saber cómo regresar clase pasar materia parte apoyar movimiento demanda estudiante justo relevante contexto buap | positivo
+122  | frustrante inscribir servicio social permitir | neutro
+123  | pues relajado aunque materia dejar demasiado trabajo requerir práctica presencial poder hacer entonces equivalencia así decir | neutro
+124  | inconforme | neutro
+125  | extraño dejar vu vivir parecido apenas segundo semestre | neutro
+126  | considerar correcto realizar cosa deber cambiar momento alzar voz | neutro
+127  | sentir frustrado cierto punto debido poder concretar cierto trámite ls | positivo
+128  | pues estresado ir uni falta comunicación | positivo
+129  | pues abrumado debido saber cuánto tiempo paro | neutro
+130  | sentir intrigado saber ir pasar si gente encontrar frente hacer cosa correctamente | neutro
+131  | esperar resultado | neutro
+132  | abrumado checar guardia mesa diálogo comer integrante participar así orden | neutro
+133  | falta información acción llevar cabo alejar movimiento poder participar hacer interés disminuir | negativo
+134  | sentir expectante ver si realmente lograr llegar acuerdo universidad realmente llevar cabo cosa | neutro
+135  | sentir aburrido clase linea poder aprender suficiente pues entender motivo hacer estudiante mejorar universidad | positivo
+136  | confuso ver complejo llegar acuerdo igual forma forma rápido | neutro
+137  | verdad sentir perdido lidiar problema ansiedad imposibilidad venir escuela empeoro condición acuerdo pelear paro sólo poder apoyar lejos | positivo
+138  | raro sentir poder haber apoyar ser foráneo poder | positivo
+139  | representar demanda comprender | neutro
+140  | mal profesor servir mayoria | neutro
+141  | realmente buen comunidad exigir educación calidad mal directivo institución actuar rápido | neutro
+142  | bien dar gusto estudiante encontrar tiempo lleno facultad exigir último semestre querer | positivo
+143  | | neutro
+144  | movimiento situación ser estresante cantidad tarea clase poder hacer mucho activadad interrumpir universidad extraescolar | neutro
+145  | favor principio confundido informado tratar | positivo
+146  | bien | positivo
+147  | lado agradecido mucho cosa fcc cambiar profesor dar clase cansado clase línea retraso implicar | positivo
+148  | incertidumbre calificación | positivo
+149  | seguir desarrollo evento esperanza mejorar calidad enseñanza fcc estudiante poder seguir desarrollar mejor forma | neutro
+150  | pues mal mismo clase presencial línea u profe dar clase último semestre | neutro
+151  | bastante confunder estresado información brindado poco claridad rumor | neutro
+152  | incertidumbre último semestre | neutro
+153  | cercano apoyar | neutro
+154  | pues difícil escuela ayudar distraer casa sólo aspecto afectar escolar afectar | positivo
+155  | diferente manera paro principio sentimiento unidad querer apoyar tener educación calidad tiempo frustración discrepancia estudiante directivo | neutro
+156  | gustar clase linea uno cosa pliego bien | neutro
+157  | frustrado gustar clase virtual | neutro
+158  | frustrado ver tiempo hacer paro poder hacer final incrementar presión entregar trabajo | neutro
+159  | pues sentir inútil deber ser oportunidad aprender cuenta contrario hacer costar prestar atención clase linea sentir avanzar sentir aprender creer sentir desanimado gana hacer provocar atrasar deber aprovechar mejor tiempo | neutro
+160  | | neutro
+161  | orgulloso hacer embargo molesto decisión tomar hacer movimiento tanto relevancia | neutro
+162  | estresado debido universidad único lugar parte cuarto soler así poder ir universidad prácticamente paro estudiantil cuarto salir | neutro
+163  | acuerdo mucho petición pues alguno modo mejorar universidad forma académico físico | positivo
+164  | sentir frustrado confunder propuesta dar directivo | neutro
+165  | bastante favor inicio embargo formar dar cosa final debatir opinión tema expuesto cosa exigir inecesario | positivo
+166  | sentir ir perder curso paro | neutro
+167  | confunder paso tanto rápido decepcionado manejo parte directivo | neutro
+168  | bien si to pelear tener mejor nivel estudiantil | positivo
+169  | aveces disperso vez inconforme vez ignorado | neutro
+170  | sentir estresado | neutro
+171  | bien | positivo
+172  | inconforme debido manera sucedir acontecimiento poder haber mejor forma | neutro
+173  | ansioso ritmo llevar cambio brusco rutina nervioso saber terminar | positivo
+174  | sentir haber gente luchar tener mejor educación ámbito universitario | neutro
+175  | sentir totalmente necesario estudiante profesor tocar punto importante respecto universidad | positivo
+176  | preocupado | neutro
+177  | preocupado jamás así saber pasar después preocupar tema inscripción ir acabar semestre | neutro
+178  | poder conseguir tiempo ordenar vida sentir bien respecto sabiar compañero unido mismo fin creer unidad hacer fuerza | neutro
+179  | sentir indiferente movimiento participar ninguno modo interesar | neutro
+180  | sentir bien respecto paro favor compañero realizar | positivo
+181  | verdad universidad parecer haber importar llegar clase línea propósito paro cumplir cierto demanda ayudar estudiante carrera | positivo
+182  | sentir normal clase peor línea pues importar razón acción correcto verdad sentir bien pues alumno luchar derecho | neutro
+183  | realizar practico | neutro
+184  | neutro | positivo
+185  | pensar necesario hacer paro | negativo
+186  | realmente afectado problema simplemente regresar casa sólo considerar maestro organizar mejor clase bien | neutro
+187  | frustrado desconectad sentir hacer | neutro
+188  | pues compartir lucha creer derecho alguien escuchar | positivo
+189  | estresado feliz | positivo
+190  | movimiento estudiantil sentir preocupado futuro carrera movimiento representar cualquiera pensamiento acción mio ser ver completamente superado situación cabecero movimiento tener minimo capacidad resolver problema ocasionar | neutro
+191  | participar movimiento embargo gustar participar lograr mejor convivencia universitario | positivo
+192  | triste | positivo
+193  | sentir aburrido frustrado saber reanudar clase presencial además gustar modalidad virtual | neutro
+194  | ansioso salior ver compañero | neutro
+195  | sentir movimiento gente medicina facultad ver allá profesor acosador universidad mucho vez hacer suponer | positivo
+196  | estresado | neutro
+197  | pos inesperado cierto manera sentir esperanzador hecho universidad hacer falta cambio altibajo movimiento creer lograr cambio aunque mínimo | positivo
+198  | bien alumno levantar inconformidad rechazar tiempo | positivo
+199  | escuchar derecho gracia compañero hacer voz escuchar | positivo
+200  | bien buen | neutro
+201  | escuchar petición | neutro
+202  | aprovechar tiempo poder estudiar lenguaje programación aparte descansar | neutro
+203  | verdad si parecer importante estudiante decir necesidad tener mejor entorno mejor educación paro quizá mejor manera si atrasar varios cosa menos poder escuchar | positivo
+204  | general sentir neutral favorecer momento pausa aliviar estrés largo viaje uni esperar alguno demanda manifestante cumplir menos regreso mejor condición | positivo
+205  | pues sentir raro información escaso ataque medio orden día pesar querer informado fuente regado todo parte siempre coincidir | neutro
+206  | bien | positivo
+207  | tranquilo | positivo
+208  | pues preocupado amenaza perder semestre vír así tranquilizar | positivo
+209  | pues movimiento necesario favor necesidad estudiante | neutro
+210  | sentir bien fin compañero decidir alzar voz mostrar todo deficiencia facultad | negativo
+211  | frustrante perder tiempo realizar práctica varios materia fin semestre saturar trabajo | neutro
+212  | preocupado avance materia identificado queja petición realizado movimiento | positivo
+213  | fustrado | neutro
+214  | estresado | neutro
+215  | sentir frustrado | neutro
+216  | mucho carga trabajo manera presencial cambiar trabajo lograr adaptar conseguir conocimiento cercano presencial | neutro
+217  | pues dudoso pasar uni | neutro
+218  | estresado | positivo
+219  | movimiento tomar sorpresa realmente necesario mucho cosa deber mejorar universidad tener educación formación calidad | neutro
+220  | sentir semestre estancar preocupar temario cada materia | neutro
+221  | interesante poner atención petición casi nadie tomar cuenta realmente importante resolver merecer atención dar alzar voz | positivo
+222  | movimiento buen parte sentir si necesario autoridad escolar tomar carta asunto todo deficiencia universidad | neutro
+223  | estresado modalidad linea recordar pandemia época fácil | neutro
+224  | primero semana normal después aburrido falta actividad escolar | neutro
+225  | movimiento estudiantil sensación experimentar momento abandono parte autoridad universidad problemático alumnado respuesta apertura diálogo ver reflejado manera rápido sino postergar dar importancia punto realizar cierto acción alguno manera desprestigiar movimiento | neutro
+226  | estresado | neutro
+227  | sentir identificado apoyo dar dar gustar comunidad estudiantil unir dar opinión | positivo
+228  | tranquilo | positivo
+229  | relajado problema realizar estudiante | positivo
+230  | confunder nunca ver así aunque participar forma presencial empatizar si hacer motivo | positivo
+231  | preocupado estudiante ahí saber poder comer dormir si poder salir ver familia etcétera | negativo
+232  | etapa complicado respecto organización clase línea movimiento estudiante | positivo
+233  | asqueado todo campaña alumno | neutro
+234  | considerar bien hecho manifestar poder tener mejora universidad gustar rato clase línea | neutro
+235  | sentir pandemia clase línea diferencia aportación parte estudiante mejorar comunidad estudiantil | positivo
+236  | movimiento estudiantil tratar serie problema afectar entorno general implicar desenvolver academicamente | neutro
+237  | bien ver exigir institución | positivo
+238  | incertidumbre dado rumor lado saber creer | neutro
+239  | sólo | neutro
+240  | feliz | negativo
+241  | neutro enfocar trabajo | positivo
+242  | alegrar compañero inconforme levantar voz hacer escuchar decepcióano dar cosa | neutro
+243  | curioso miedo poder pasar | positivo
+244  | sentir bien sólo clase línea eficiente | positivo
+245  | segundo movimiento estudiantil nuevo creer perder clase tiempo valioso clase año vivir vez llegar sensación volver perder ganar hoy convencido completamente necesario pese circunstancia | positivo
+246  | estresado materia | neutro
