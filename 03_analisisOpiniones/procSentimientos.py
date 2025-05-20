@@ -53,7 +53,7 @@ def preprocesar_texto(ruta_entrada, ruta_salida_preprocesado):
     stop_w = set(stopwords.words("spanish")) 
     # Crear la expresión regular para eliminar puntuación, signos y números, donde la expresion regular [0-9] quita numeros y la funcion punctutation quita todos los signos
     # Quitamos puntuación (excepto el guion "-") y números
-    re_punc = re.compile('[%s0-9]' % re.escape(string.punctuation.replace("-", " ")))
+    re_punc = re.compile('[%s0-9]' % re.escape(string.punctuation))
 
     with open(ruta_entrada, "r", encoding="utf-8") as nuevoCargaDocumento, open(ruta_salida_preprocesado, "w",encoding="utf-8") as salidaDocumento:
         for linea in nuevoCargaDocumento:
