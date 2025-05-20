@@ -5,6 +5,8 @@ import string
 from nltk.stem import SnowballStemmer
 from nltk.corpus import stopwords
 import stanza
+from collections import Counter
+import matplotlib.pyplot as plt
 
 #Inicializamos pipeline de Stanza
 stanza.download("es")
@@ -27,14 +29,24 @@ opiniones_paro = df["sentimientos_paro"].dropna().reset_index(drop=True)
 opiniones_finales = df["sentimientos_finales"].dropna().reset_index(drop=True)
 
 # Guardar las opiniones de "sentimientos_paro" en un archivo
-with open(ropiniones_durante, "w", encoding="utf-8") as f:
-    for i, opinion in enumerate(opiniones_paro, start=1):
-        f.write(f"{i} | {opinion}\n")
+if not os.path.exists(ropiniones_durante):
+    # Guardar las opiniones de "sentimientos_paro" en un archivo
+    with open(ropiniones_durante, "w", encoding="utf-8") as f:
+        for i, opinion in enumerate(opiniones_paro, start=1):
+            f.write(f"{i} | {opinion}\n")
+    print(f"Archivo generado: {ropiniones_durante}")
+else:
+    print(f"Archivo ya existe: {ropiniones_durante}")
 
 # Guardar las opiniones de "sentimientos_finales" en un archivo
-with open(ropiniones_finales, "w", encoding="utf-8") as f:
-    for i, opinion in enumerate(opiniones_finales, start=1):
-        f.write(f"{i} | {opinion}\n")
+if not os.path.exists(ropiniones_finales):
+    # Guardar las opiniones de "sentimientos_finales" en un archivo
+    with open(ropiniones_finales, "w", encoding="utf-8") as f:
+        for i, opinion in enumerate(opiniones_finales, start=1):
+            f.write(f"{i} | {opinion}\n")
+    print(f"Archivo generado: {ropiniones_finales}")
+else:
+    print(f"Archivo ya existe: {ropiniones_finales}")
         
 #========Preprocesado========
 def preprocesar_texto(ruta_entrada, ruta_salida_preprocesado):
@@ -57,7 +69,7 @@ def preprocesar_texto(ruta_entrada, ruta_salida_preprocesado):
                 for sentence in doc.sentences:
                     for word in sentence.words:
                         # Filtrar palabras vacías y agregar lemas
-                        if word.text not in stop_w:
+                        if word.text not in stop_w: #Se usaa word.text para filtrar palabras vacías despues de la lematización
                             palabras_limpias.append(word.lemma)
                 
                 #Ordenar las palabras procesadas
@@ -66,15 +78,20 @@ def preprocesar_texto(ruta_entrada, ruta_salida_preprocesado):
                 #volvemos a guardar en el mismo formato
                 salidaDocumento.write(f"{index} | {texto_ordenado_modificado}\n")
 
-preprocesar_texto(ropiniones_durante, opiniones_durante_preprocesadas)
-preprocesar_texto(ropiniones_finales, opiniones_finales_preprocesadas)
-print("Opiniones extraídas y guardadas en 'opiniones_durante.txt' y 'opiniones_finales.txt'.")
+# Verificar si los archivos preprocesados ya existen antes de generarlos
+if not os.path.exists(opiniones_durante_preprocesadas):
+    preprocesar_texto(ropiniones_durante, opiniones_durante_preprocesadas)
+    print(f"Archivo preprocesado generado: {opiniones_durante_preprocesadas}")
+else:
+    print(f"Archivo preprocesado ya existe: {opiniones_durante_preprocesadas}")
+if not os.path.exists(opiniones_finales_preprocesadas):
+    preprocesar_texto(ropiniones_finales, opiniones_finales_preprocesadas)
+    print(f"Archivo preprocesado generado: {opiniones_finales_preprocesadas}")
+else:
+    print(f"Archivo preprocesado ya existe: {opiniones_finales_preprocesadas}")
 
 ## ======== Analisis de opiniones ========
-def analizar_opiniones(ruta_entrada, ruta_salida, titulo_grafica):
-    from collections import Counter
-    import matplotlib.pyplot as plt
-    
+def analizar_opiniones(ruta_entrada, ruta_salida, titulo_grafica):    
     #Leemos archivos preprocesados
     with open(ruta_entrada, "r", encoding="utf-8") as f:
         palabras = []
@@ -114,3 +131,48 @@ def analizar_opiniones(ruta_entrada, ruta_salida, titulo_grafica):
 analizar_opiniones(opiniones_durante_preprocesadas, opiniones_durante_preprocesadas, "Palabras en opiniones durante el paro")
 analizar_opiniones(opiniones_finales_preprocesadas, opiniones_finales_preprocesadas, "Palabras en opiniones finales")
 
+#======= Analisis categorico =======
+#Agrupar datos por cateogria seleccionada
+def analizar_datos_por_categoria(df, columna_categoria, ruta_preprocesado, ruta_salida_base, titulo_base):
+    with open(ruta_preprocesado, "r", encoding="utf-8") as f:
+        opiniones_preprocesadas = {}
+        for linea in f:
+            index, texto = linea.strip().split("|", 1)  # Dividir en índice y texto
+            opiniones_preprocesadas[int(index)] = texto.strip()
+
+    #Acumular palabras por categoria
+    categorias = df[columna_categoria].dropna().unique() #btenemos valores unicos  por categoria (columna)
+    palabras_por_categoria = {}
+    
+    for categoria in categorias:
+        # Filtrar opiniones por categoria
+        indices_categoria = df[df[columna_categoria] == categoria].index
+        
+        #Combinar las opiniones preprocesadas con los indices de la categoria
+        palabras = []
+        for idx in indices_categoria:
+            if idx + 1 in opiniones_preprocesadas:
+                palabras.extend(opiniones_preprocesadas[idx + 1].split())
+                
+        # Contar palabras más frecuentes para la categoría
+        palabras_por_categoria[categoria] = Counter(palabras).most_common(20) #20 palabras mas frecuentes
+        
+    #Crear grafica combinada
+    plt.figure(figsize=(12, 8))
+    for categoria, palabras_comunes in palabras_por_categoria.items(): #Top 10 palabras mas frecuentes por categoria
+        palabras, frecuencias = zip(*palabras_comunes)
+        plt.barh([f"{palabra} ({categoria})" for palabra in palabras], frecuencias, label=f"{categoria}") #Mostramos la categoria en la grafica
+    
+    plt.xlabel("Frecuencia")
+    plt.ylabel("Palabras (categoria)")
+    plt.title(titulo_base)
+    plt.legend(title=columna_categoria, bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.tight_layout()
+    plt.savefig(ruta_salida_base.replace(".txt", f"_{columna_categoria}.png"))
+    plt.show()
+    plt.close()           
+        
+    
+analizar_datos_por_categoria(df, "genero", opiniones_durante_preprocesadas, "palabras_genero", "Palabras mas frecuentes por género")
+analizar_datos_por_categoria(df, "semestre", opiniones_durante_preprocesadas, "palabras_semestre", "Palabras más frecuentes por semestre (durante el paro)")
+analizar_datos_por_categoria(df, "edad", opiniones_finales_preprocesadas, "palabras_edad", "Palabras más frecuentes por edad (finales)")
